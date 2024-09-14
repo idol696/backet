@@ -1,10 +1,10 @@
-package ru.prostostudia.backet;
+package ru.prostostudia.basket;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BacketApplicationTests {
+class BasketApplicationTests {
 
 	@Test
 	void contextLoads() {

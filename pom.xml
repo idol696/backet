@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ru.prostostudia</groupId>
-	<artifactId>backet</artifactId>
+	<artifactId>basket</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>backet</name>
 	<description>Backet WEb Spring Homework</description>
